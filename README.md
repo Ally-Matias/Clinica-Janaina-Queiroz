@@ -1,6 +1,9 @@
-<img align="center" src="logo.png" />
+<p align="center">
+  <img src="Logo 01 azul.png" width="600" />
+</p>
 
-<h1 align="center">Clínica Janaína Queiroz</h1>
+<br>
+<br>
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -12,7 +15,7 @@
 </p>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=green&style=for-the-badge" />
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge" />
 </p>
 
 
@@ -24,7 +27,7 @@
 <p>
 Fui encarregado de criar uma landing page completa para a Clínica Odontológica Janaína Queiroz, um projeto freelance que me envolveu profundamente e do qual me orgulho bastante. Ao longo desse processo, pude aprender muito e evoluir profissionalmente.
 
-Trabalhei individualmente na programação do site, mas contei com a colaboração de um designer muito competente para criar as telas no Figma, o que me permitiu apresentar ao cliente uma prévia visual do resultado final, facilitando o processo de aprovação. A minha meta era desenvolver um site rápido, minimalista e altamente ranqueado no Google, priorizando assim a conversão de clientes e a entrega de informações completas aos visitantes.
+Trabalhei individualmente na programação do site, mas contei com a colaboração de um designer ( [Jeff Uchoa](https://www.linkedin.com/in/jeff-uchoa-b264b3186/) ) muito talentoso para criar as telas no Figma, o que me permitiu apresentar ao cliente uma prévia visual do resultado final, facilitando o processo de aprovação. A minha meta era desenvolver um site rápido, minimalista e altamente ranqueado no Google, priorizando assim a conversão de clientes e a entrega de informações completas aos visitantes.
 
 #### Processo de Desenvolvimento:
 
@@ -41,18 +44,13 @@ Ver a satisfação da cliente ao receber o projeto e perceber que foi superada s
 
 ---
 
-
-### 🔴 Clique na imagem para ver o vídeo do projeto:
-
-[![Clínica Janaína Queiroz](https://github.com/Ally-Matias/Shotokawa-Comics/blob/bf318a2b9edf5ec6db93db9e546fd07ee7583ecb/Screenshot%20from%202023-09-07%2013-44-54.png)](https://youtu.be/xeWEF83yHt4?si=GNmyHSfqWDM1aprk)
-
-<br>
-
 ### 🔷 Link para visitar o site:
 
-<https://github.com>
+<https://clinicajanainaqueiroz.vercel.app/>
 
 ---
+
+<br>
 
 ### 🤔 Padrões que usei:
 
