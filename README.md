@@ -1,5 +1,8 @@
+<br>
+<br>
+
 <p align="center">
-  <img src="Logo 01 azul.png" width="500" />
+  <img src="Logo 01 azul.png" width="450" />
 </p>
 
 <br>
