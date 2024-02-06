@@ -51,6 +51,8 @@ Ver a satisfação da cliente ao receber o projeto e perceber que foi superada s
 
 <https://clinicajanainaqueiroz.vercel.app/>
 
+`Em breve na hospedagem e domínio oficial`
+
 ---
 
 <br>
