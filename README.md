@@ -65,3 +65,21 @@ Ver a satisfação da cliente ao receber o projeto e perceber que foi superada s
 | novo recurso     |     feat      |
 | correção de bugs |      fix      |
 | refatoração      |     refac     |
+
+
+<br>
+
+<h3>🔷 Programador:</h3>
+<div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Ally-Matias">
+          <img src="https://avatars.githubusercontent.com/u/98532868?v=4" alt="Alliquison Matias da Silva"
+            width="120px">
+          <br>
+          <sub><b>Alliquison Matias</b></sub>
+        </a>
+    </tr>
+  </table>
+</div>
