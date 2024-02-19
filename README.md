@@ -49,9 +49,7 @@ Ver a satisfação da cliente ao receber o projeto e perceber que foi superada s
 
 ### 🔷 Link para visitar o site:
 
-<https://clinicajanainaqueiroz.vercel.app/>
-
-`Em breve na hospedagem e domínio oficial`
+<https://clinicajanainaqueiroz.com.br/>
 
 ---
 
