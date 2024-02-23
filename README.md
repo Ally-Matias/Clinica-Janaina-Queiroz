@@ -36,7 +36,7 @@ Trabalhei individualmente na programação do site, mas contei com a colaboraç�
 
 Para atingir esses objetivos, optei por não utilizar frameworks como React ou Vue, apesar da minha experiência com ambos e gostar bastante. Isso se deve ao fato de que esses frameworks são Single Page Applications (SPAs), o que pode comprometer a otimização para mecanismos de busca (SEO). Em vez disso, escolhi desenvolver o site utilizando HTML5, CSS3 e JavaScript, o famoso Vanilla. Além disso, para melhorar a organização do CSS e acelerar o processo de desenvolvimento, utilizei o pré-processador Sass (SCSS).
 
-Graças a essa abordagem estratégica, o site alcançou métricas excepcionais no PageSpeed Insights, com pontuações acima de 90 em todos os aspectos, incluindo SEO e desempenho.
+Graças a essa abordagem estratégica, o site alcançou métricas excepcionais no PageSpeed Insights, com pontuações acima de 90 nos aspectos mais relevantes, além de alcançar um índice de SEO(Search Engine Optimization) de 100 pontos.
 
 #### Resultados e Conclusão:
 
